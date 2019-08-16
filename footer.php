@@ -1,7 +1,7 @@
 </div>
 <footer>
   <div class="container">
-  	  <p>DogCursos - copyright 2018</p>
+  	  <p>Eduardo Alano - copyright 2018</p>
 
   </div>
 </footer>
